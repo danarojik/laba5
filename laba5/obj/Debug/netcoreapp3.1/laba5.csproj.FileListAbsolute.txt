@@ -1,0 +1,14 @@
+C:\isis\laba5\laba5\bin\Debug\netcoreapp3.1\laba5.exe
+C:\isis\laba5\laba5\bin\Debug\netcoreapp3.1\laba5.deps.json
+C:\isis\laba5\laba5\bin\Debug\netcoreapp3.1\laba5.runtimeconfig.json
+C:\isis\laba5\laba5\bin\Debug\netcoreapp3.1\laba5.runtimeconfig.dev.json
+C:\isis\laba5\laba5\bin\Debug\netcoreapp3.1\laba5.dll
+C:\isis\laba5\laba5\bin\Debug\netcoreapp3.1\laba5.pdb
+C:\isis\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.csproj.AssemblyReference.cache
+C:\isis\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.GeneratedMSBuildEditorConfig.editorconfig
+C:\isis\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.AssemblyInfoInputs.cache
+C:\isis\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.AssemblyInfo.cs
+C:\isis\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.csproj.CoreCompileInputs.cache
+C:\isis\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.dll
+C:\isis\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.pdb
+C:\isis\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.genruntimeconfig.cache
